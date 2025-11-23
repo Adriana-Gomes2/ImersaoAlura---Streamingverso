@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "Duna: Parte Dois",
+        "descricao": "Paul Atreides se une a Chani e aos Fremen em uma guerra de vingança contra os conspiradores que destruíram sua família, buscando evitar um futuro terrível que só ele pode prever.",
+        "genero": "Ficção Científica, Aventura",
+        "onde_assistir": "Max",
+        "link": "https://www.imdb.com/title/tt15239678/",
+        "imagem": "https://www.europanet.com.br/upload/id_produto/107___/107350g.jpg"
+    },
+    {
+        "nome": "Oppenheimer",
+        "descricao": "A história do físico americano J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial.",
+        "genero": "Biografia, Drama, Suspense",
+        "onde_assistir": "Prime Video",
+        "link": "https://www.imdb.com/title/tt15398776/",
+        "imagem": "https://uauposters.com.br/media/catalog/product/1/5/158720240305-uau-posters-oppenheimer-filmes-2.jpg"
+    },
+    {
+        "nome": "Barbie",
+        "descricao": "Depois de ser expulsa da Barbieland, Barbie parte para o mundo humano para encontrar a verdadeira felicidade ao lado de Ken.",
+        "genero": "Fantasia, Comédia",
+        "onde_assistir": "Max",
+        "link": "https://www.imdb.com/title/tt1517268/",
+        "imagem": "https://www.europanet.com.br/upload/id_produto/107___/107346g.jpg"
+    },
+    {
+        "nome": "Vingadores: Ultimato",
+        "descricao": "Os Vingadores restantes se unem para reverter as ações de Thanos e restaurar o equilíbrio do universo após os eventos devastadores de 'Guerra Infinita'.",
+        "genero": "Super-herói, Ficção Científica, Ação",
+        "onde_assistir": "Disney+",
+        "link": "https://www.imdb.com/title/tt4154796/",
+        "imagem": "https://br.web.img3.acsta.net/r_1280_720/pictures/19/04/04/11/41/5625023.jpg"
+    },
+    {
+        "nome": "Coringa",
+        "descricao": "Em Gotham City, o comediante Arthur Fleck, mentalmente perturbado, é desprezado pela sociedade e embarca em uma espiral de revolução e crime.",
+        "genero": "Suspense Psicológico, Crime",
+        "onde_assistir": "Prime Video / Max",
+        "link": "https://www.imdb.com/title/tt7286456/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/63/Joker_%282019%29.jpg"
+    },
+    {
+        "nome": "Homem-Aranha: Através do Aranhaverso",
+        "descricao": "Miles Morales é catapultado através do Multiverso, onde ele encontra uma equipe de Pessoas-Aranha encarregada de proteger sua própria existência.",
+        "genero": "Animação, Super-herói, Ação",
+        "onde_assistir": "Max",
+        "link": "https://www.imdb.com/title/tt9362722/",
+        "imagem": "https://m.media-amazon.com/images/M/MV5BMjgzNWYyOWItMGQxYi00MzQ2LWFhNGQtMDI4OWUyMThmZjk3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "nome": "Parasita",
+        "descricao": "A ganância e a discriminação de classe ameaçam o relacionamento simbiótico recém-formado entre a rica família Park e o pobre clã Kim.",
+        "genero": "Suspense, Comédia Sombria, Drama",
+        "onde_assistir": "Max",
+        "link": "https://www.imdb.com/title/tt6751668/",
+        "imagem": "https://br.web.img2.acsta.net/pictures/19/05/27/17/24/1087814.jpg"
+    },
+    {
+        "nome": "Interestelar",
+        "descricao": "Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie.",
+        "genero": "Ficção Científica, Drama",
+        "onde_assistir": "Prime Video / Max",
+        "link": "https://www.imdb.com/title/tt0816692/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3a/Interstellar_Filme.png"
+    },
+    {
+        "nome": "A Origem",
+        "descricao": "Dom Cobb é um ladrão que rouba segredos valiosos do inconsciente durante o sono. Ele recebe a oferta de ter sua vida de volta se conseguir plantar uma ideia na mente de um alvo.",
+        "genero": "Ficção Científica, Ação",
+        "onde_assistir": "Max",
+        "link": "https://www.imdb.com/title/tt1375666/",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/87/32/31/20028688.jpg"
+    },
+    {
+        "nome": "Mad Max: Estrada da Fúria",
+        "descricao": "Após ser capturado por Immortan Joe, um guerreiro das estradas chamado Max se vê no meio de uma guerra mortal, iniciada pela Imperatriz Furiosa na tentativa de salvar um grupo de garotas.",
+        "genero": "Ação, Ficção Científica",
+        "onde_assistir": "Max / Prime Video",
+        "link": "https://www.imdb.com/title/tt1392190/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/23/Max_Mad_Fury_Road_Newest_Poster.jpg"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "Stranger Things",
+        "descricao": "Em uma pequena cidade, um grupo de amigos se envolve em uma série de eventos sobrenaturais após o desaparecimento de um garoto. Eles acabam descobrindo experimentos secretos do governo e uma garota com poderes de telecinese.",
+        "genero": "Ficção Científica, Terror, Drama",
+        "onde_assistir": "Netflix",
+        "link": "https://www.imdb.com/title/tt4574334/",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmG5xkSdVrhwO00Y2kp_OZ7RMuzig3LhO8lQ&s"
+    },
+    {
+        "nome": "The Crown",
+        "descricao": "Uma série dramática que narra a vida da Rainha Elizabeth II desde a década de 1940 até os tempos modernos, abordando os principais eventos políticos e pessoais que moldaram seu reinado.",
+        "genero": "Drama Histórico",
+        "onde_assistir": "Netflix",
+        "link": "https://www.imdb.com/title/tt4786824/",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/10/17/1087190444-ffsuiq1ayaqu4xp.jpg"
+    },
+    {
+        "nome": "The Mandalorian",
+        "descricao": "Após a queda do Império, um caçador de recompensas mandaloriano solitário navega pelos confins da galáxia, onde sua vida muda ao encontrar uma criatura misteriosa conhecida como 'A Criança'.",
+        "genero": "Ficção Científica, Ação",
+        "onde_assistir": "Disney+",
+        "link": "https://www.imdb.com/title/tt8111088/",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2023/02/01/725223953-mandalorianver29xlg-1.jpg"
+    },
+    {
+        "nome": "The Last of Us",
+        "descricao": "A jornada de Ellie e Joel continua em um mundo pós-apocalíptico, enfrentando novas ameaças tanto de infectados quanto de outros sobreviventes.",
+        "genero": "Pós-apocalíptico, Drama, Ação",
+        "onde_assistir": "HBO Max",
+        "link": "https://www.imdb.com/pt/title/tt3581920/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520last%2520of",
+        "imagem": "https://cinepop.com.br/wp-content/uploads/2025/02/the-last-of-us2.jpg"
+    },
+    {
+        "nome": "Demolidor - Renascido",
+        "descricao": "Matt Murdock e Wilson Fisk tentam deixar seus alter egos para trás, mas o passado os alcança nesta nova série que reinicia a história do Demolidor no Universo Cinematográfico Marvel.",
+        "genero": "Super-herói, Ação",
+        "onde_assistir": "Disney+",
+        "link": "https://www.imdb.com/pt/title/tt18923754/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_darede",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2025/01/15/2062705024-poster-demolidor.jpg"
+    },
+    {
+        "nome": "Loki",
+        "descricao": "Loki continua suas aventuras através do tempo e do espaço, enfrentando novas ameaças e descobrindo mais sobre a misteriosa organização conhecida como TVA.",
+        "genero": "Super-herói, Ficção Científica",
+        "onde_assistir": "Disney+",
+        "link": "https://www.imdb.com/pt/title/tt9140554/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_loki",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg"
+    },
+    {
+        "nome": "House of the Dragon ",
+        "descricao": "A história da Casa Targaryen continua, explorando as lutas pelo poder e as intrigas que levaram à guerra civil conhecida como a Dança dos Dragões.",
+        "genero": "Fantasia, Drama",
+        "onde_assistir": "HBO Max",
+        "link": "https://www.imdb.com/title/tt11198330/",
+        "imagem": "https://s2.glbimg.com/uG2dWcrknD_P7URGG_C06uaJWMw=/e.glbimg.com/og/ed/f/original/2022/06/22/hotd_ka_hbo-max_organic_4x5_bra.png"
+    },
+    {
+        "nome": "O Problema dos 3 Corpos",
+        "descricao": "A decisão de uma jovem na China dos anos 1960 reverbera através do tempo e do espaço para um grupo de cientistas no presente, forçando-os a enfrentar a maior ameaça da humanidade.",
+        "genero": "Ficção Científica, Mistério, Drama",
+        "onde_assistir": "Netflix",
+        "link": "https://www.imdb.com/title/tt13016388/",
+        "imagem": "https://m.media-amazon.com/images/M/MV5BMjIzMWI3N2ItNjVjYS00ZDJhLWI1ZDAtOTQ4M2NlZGIxODA0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "nome": "Fallout",
+        "descricao": "Em um futuro pós-apocalíptico, 200 anos após uma guerra nuclear, os habitantes de luxuosos abrigos radioativos são forçados a retornar à superfície, descobrindo um universo complexo e violento.",
+        "genero": "Ficção Científica, Pós-apocalíptico, Ação",
+        "onde_assistir": "Prime Video",
+        "link": "https://www.imdb.com/title/tt12637874/",
+        "imagem": "https://br.web.img2.acsta.net/pictures/23/12/04/09/17/0878957.jpg"
+    },
+    {
+        "nome": "Pinguim",
+        "descricao": "Continuando a saga de 'The Batman', a série acompanha a ascensão de Oswald 'Oz' Cobb ao poder no submundo do crime de Gotham, enfrentando inimigos para se tornar o infame Pinguim.",
+        "genero": "Crime, Drama, Ação",
+        "onde_assistir": "Max",
+        "link": "https://www.imdb.com/pt/title/tt15435876/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_pinguim",
+        "imagem": "https://m.media-amazon.com/images/M/MV5BOGI5NjUzOTktMjBmYS00YzkwLThiOWItMmQ4ODNhMzM2ZTNlXkEyXkFqcGc@._V1_.jpg"
+    }
+]

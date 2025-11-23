@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!-- Configura a página para se adaptar a diferentes tamanhos de tela (design responsivo) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Links para carregar a fonte 'Bebas Neue' do Google Fonts para um estilo de texto personalizado -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <!-- Link para a folha de estilos externa (CSS) que estiliza a página -->
+    <link rel= "Stylesheet" href="style.css">
+    <!-- Estilos CSS escritos diretamente no HTML. Eles definem a aparência de alguns elementos específicos. -->
+    <style>
+        header h1 {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 3rem;
+        }
+        .btn {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.2rem;
+            padding: 10px 20px;
+            margin: 0 10px;
+            border: 2px solid #fff;
+            background-color: #141414;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #fff;
+            color: #141414;
+        }
+    </style>
+    <!-- Título que aparece na aba do navegador -->
+    <title>Streamingverso</title>
+</head>
+<body>
+    <!-- O corpo da página, onde todo o conteúdo visível fica -->
+
+    <!-- Cabeçalho da página -->
+    <header>
+        <!-- Título principal da página -->
+        <h1>Streamingverso</h1>
+        <!-- Divisão para agrupar os elementos de busca -->
+        <div>
+            <!-- Campo de texto para o usuário digitar a busca -->
+            <input type="text" id="input-busca" placeholder="Buscar por título..." />
+            <!-- Botão que o usuário clica para iniciar a busca -->
+            <button id="botao-busca">Buscar</button>
+        </div>
+    </header>
+
+    <!-- Conteúdo principal da página -->
+    <main>
+        <!-- Botão para mostrar as séries. 'onclick' chama a função JavaScript para buscar e mostrar as séries. -->
+        <button class="btn" onclick="buscarErenderizar('series')">Séries</button>
+        <!-- Botão para mostrar os filmes. 'onclick' chama a função JavaScript para buscar e mostrar os filmes. -->
+        <button class="btn" onclick="buscarErenderizar('filmes')">Filmes</button>
+        <br><br><br>
+        <!-- Seção onde os cards de filmes e séries serão inseridos pelo JavaScript -->
+        <section class="card-container">
+        </section>
+    </main>
+
+    <!-- Rodapé da página -->
+    <footer class="footer">
+        <!-- Mostra a localização -->
+        <div class="footer-location">Brasil</div>
+        <!-- Lista de links úteis no rodapé -->
+        <ul class="footer-links">
+            <li>
+                <a href="#" onclick="buscarErenderizar('series')">Séries</a>
+            </li>
+            <li>
+                <a href="#" onclick="buscarErenderizar('filmes')">Filmes</a>
+            </li>
+             <li>
+                <a href="https://github.com/Adriana-Gomes2" target="_blank">GitHub</a>
+            </li>
+        </ul>
+    </footer>
+    <!-- Link para o arquivo JavaScript. O script é carregado no final para que a página apareça mais rápido. -->
+    <script src="script.js"></script>
+
+</body>
+</html>
